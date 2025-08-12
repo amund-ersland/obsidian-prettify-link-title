@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "prettify-links",
+	"name": "Prettify Links",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Provides a command to prettify links in current document by removing id prefix and replacing hyphens and underscore with space",
+	"author": "Amund Ersland",
+	"authorUrl": "https://github.com/amund-ersland",
 	"isDesktopOnly": false
 }
